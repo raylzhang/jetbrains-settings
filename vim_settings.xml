@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/prj-xl-code/xl-core/xl-api/src/main/java/com/xl/api/base/ServerResponse.java" timestamp="1563261975598" />
       <file name="$USER_HOME$/prj-xl-code/xl-core/xl-api/src/main/java/com/xl/api/base/ResponseCode.java" timestamp="1563253761344">
         <mark key="[" line="27" column="6" />
         <mark key="]" line="27" column="5" />
@@ -16,6 +15,10 @@
         <mark key="]" line="6" column="28" />
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
+      </file>
+      <file name="$USER_HOME$/prj-xl-code/xl-core/xl-publisher/src/main/resources/applicationContext.xml" timestamp="1563263420640" />
+      <file name="/fragment.java" timestamp="1563263521043">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
