@@ -3,14 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1563336062715">
+      <file name="/Dummy.txt" timestamp="1563339634276">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1563336062701">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/prj-xl-code/xl-core/xl-api/src/main/java/com/xl/api/base/ResponseCode.java" timestamp="1563253761344">
         <mark key="[" line="27" column="6" />
@@ -28,15 +25,32 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
+      <file name="/a.dummy" timestamp="1563340230950">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1563339630889">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" timestamp="1563340608638">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="96" column="60" />
+        <mark key="]" line="96" column="55" />
+        <mark key="^" line="96" column="55" />
+        <mark key="." line="96" column="55" />
+      </file>
       <file name="/xltest.xl_user [xltest]" timestamp="1563267301579">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/xltest.xl_user [mysql-local]" timestamp="1563336207340">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1563263521043">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1563327867387">
+      <file name="/dummy.sql" timestamp="1563339634295">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/java/com/xl/bir/dao/XlUserPrizeMapper.java" timestamp="1563340189330" />
     </filemarks>
     <jumps>
       <jump line="16" column="0" filename="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" />
@@ -44,13 +58,35 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" />
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" />
       <jump line="15" column="0" filename="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" />
+      <jump line="96" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="2" column="37" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="4" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="8" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="11" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="13" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="19" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="25" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="35" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="40" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="56" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="62" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="68" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="75" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="80" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="85" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="90" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="95" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="100" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
     </jumps>
     <registers>
+      <register name="0" type="4">
+        <text encoding="base64">PHRhYmxlIHRhYmxlTmFtZT0ieGxfdXNlcl9wcml6ZSIgZG9tYWluT2JqZWN0TmFtZT0iWGxVc2VyUHJpemUiIGVuYWJsZUNvdW50QnlFeGFtcGxlPSJmYWxzZSIKICAgICAgICAgICAgICAgZW5hYmxlVXBkYXRlQnlFeGFtcGxlPSJmYWxzZSIgZW5hYmxlRGVsZXRlQnlFeGFtcGxlPSJmYWxzZSIgZW5hYmxlU2VsZWN0QnlFeGFtcGxlPSJmYWxzZSIKICAgICAgICAgICAgICAgc2VsZWN0QnlFeGFtcGxlUXVlcnlJZD0iZmFsc2UiPgogICAgICAgIDwvdGFibGU+</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">dGFibGVfbmFtZQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dGFibGVfbmFtZQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PHRhYmxlIHRhYmxlTmFtZT0ieGxfdXNlcl9wcml6ZSIgZG9tYWluT2JqZWN0TmFtZT0iWGxVc2VyUHJpemUiIGVuYWJsZUNvdW50QnlFeGFtcGxlPSJmYWxzZSIKICAgICAgICAgICAgICAgZW5hYmxlVXBkYXRlQnlFeGFtcGxlPSJmYWxzZSIgZW5hYmxlRGVsZXRlQnlFeGFtcGxlPSJmYWxzZSIgZW5hYmxlU2VsZWN0QnlFeGFtcGxlPSJmYWxzZSIKICAgICAgICAgICAgICAgc2VsZWN0QnlFeGFtcGxlUXVlcnlJZD0iZmFsc2UiPgogICAgICAgIDwvdGFibGU+</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">LURzdW4uamF2YTJkLnJlbmRlcmVyPXN1bi5qYXZhMmQubWFybGluLk1hcmxpblJlbmRlcmluZ0VuZ2luZQo=</text>
