@@ -3,11 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1563339634276">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/prj-xl-code/xl-core/xl-api/src/main/java/com/xl/api/base/ResponseCode.java" timestamp="1563253761344">
         <mark key="[" line="27" column="6" />
         <mark key="]" line="27" column="5" />
         <mark key="^" line="27" column="5" />
         <mark key="." line="27" column="5" />
+      </file>
+      <file name="/xltest.xl_user_prize [xltest]" timestamp="1563326218016">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" timestamp="1563255567848">
         <mark key="'" line="16" column="0" />
@@ -16,9 +25,55 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/prj-xl-code/xl-core/xl-publisher/src/main/resources/applicationContext.xml" timestamp="1563263420640" />
+      <file name="/a.dummy" timestamp="1563340230950">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/mappers/XlUserPrizeMapper.xml" timestamp="1563342289149">
+        <mark key="[" line="211" column="45" />
+        <mark key="]" line="212" column="29" />
+        <mark key="." line="212" column="29" />
+        <mark key="^" line="212" column="29" />
+      </file>
+      <file name="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/datasource.properties" timestamp="1563341404574">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+      </file>
+      <file name="/a.sql" timestamp="1563339630889">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" timestamp="1563340608638">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="96" column="60" />
+        <mark key="]" line="96" column="55" />
+        <mark key="^" line="96" column="55" />
+        <mark key="." line="96" column="55" />
+      </file>
+      <file name="/xltest.xl_user [xltest]" timestamp="1563267301579">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/xltest.xl_user [mysql-local]" timestamp="1563336207340">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/mappers/XlPrizeMapper.xml" timestamp="1563341741233">
+        <mark key="'" line="108" column="42" />
+        <mark key="[" line="171" column="54" />
+        <mark key="]" line="171" column="26" />
+        <mark key="." line="171" column="26" />
+        <mark key="^" line="171" column="26" />
+      </file>
       <file name="/fragment.java" timestamp="1563263521043">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1563339634295">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/java/com/xl/bir/dao/XlUserPrizeMapper.java" timestamp="1563342153970">
+        <mark key="[" line="23" column="43" />
+        <mark key="]" line="23" column="61" />
+        <mark key="^" line="23" column="42" />
+        <mark key="." line="23" column="43" />
       </file>
     </filemarks>
     <jumps>
@@ -27,19 +82,66 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" />
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" />
       <jump line="15" column="0" filename="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" />
+      <jump line="96" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="2" column="37" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="4" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="8" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="11" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="13" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="19" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="25" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="35" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="40" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="56" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="62" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="68" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="75" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="80" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="85" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="90" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="95" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="100" column="0" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/generatorConfig.xml" />
+      <jump line="108" column="42" filename="$USER_HOME$/prj-xl-code/xl-core/xl-bir/src/main/resources/mappers/XlPrizeMapper.xml" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">LURzdW4uamF2YTJkLnJlbmRlcmVyPXN1bi5qYXZhMmQubWFybGluLk1hcmxpblJlbmRlcmluZ0VuZ2luZQo=</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>0</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVyZSBhZF9pZCA9ICN7YWRJZCxqZGJjVHlwZT1WQVJDSEFSfQogICAgICAgIGFuZCB1c2VyX2lkID0gI3t1c2VySWQsamRiY1R5cGU9VkFSQ0hBUn0=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICB3aGVyZSBhZF9pZCA9ICN7YWRJZCxqZGJjVHlwZT1WQVJDSEFSfQogICAgICAgIGFuZCB1c2VyX2lkID0gI3t1c2VySWQsamRiY1R5cGU9VkFSQ0hBUn0=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9pZj4K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9InVwZGF0ZVRpbWUgIT0gbnVsbCI+Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">PHJlc3VsdE1hcCBpZD0iQmFzZVJlc3VsdE1hcCIgdHlwZT0iY29tLnhsLmJpci5wb2pvLlhsVXNlclByaXplIj4KICAgICAgICA8aWQgY29sdW1uPSJpZCIgamRiY1R5cGU9IlZBUkNIQVIiIHByb3BlcnR5PSJpZCIgLz4KICAgICAgICA8cmVzdWx0IGNvbHVtbj0idXNlcl9pZCIgamRiY1R5cGU9IlZBUkNIQVIiIHByb3BlcnR5PSJ1c2VySWQiIC8+CiAgICAgICAgPHJlc3VsdCBjb2x1bW49InByaXplX3R5cGUiIGpkYmNUeXBlPSJWQVJDSEFSIiBwcm9wZXJ0eT0icHJpemVUeXBlIiAvPgogICAgICAgIDxyZXN1bHQgY29sdW1uPSJzb3VyY2UiIGpkYmNUeXBlPSJWQVJDSEFSIiBwcm9wZXJ0eT0ic291cmNlIiAvPgogICAgICAgIDxyZXN1bHQgY29sdW1uPSJzb3VyY2VfaWQiIGpkYmNUeXBlPSJWQVJDSEFSIiBwcm9wZXJ0eT0ic291cmNlSWQiIC8+CiAgICAgICAgPHJlc3VsdCBjb2x1bW49InByaXplX3RpdGxlIiBqZGJjVHlwZT0iVkFSQ0hBUiIgcHJvcGVydHk9InByaXplVGl0bGUiIC8+CiAgICAgICAgPHJlc3VsdCBjb2x1bW49InByaXplX3N1YnRpdGxlIiBqZGJjVHlwZT0iVkFSQ0hBUiIgcHJvcGVydHk9InByaXplU3VidGl0bGUiIC8+CiAgICAgICAgPHJlc3VsdCBjb2x1bW49InByaXplX3VybCIgamRiY1R5cGU9IlZBUkNIQVIiIHByb3BlcnR5PSJwcml6ZVVybCIgLz4KICAgICAgICA8cmVzdWx0IGNvbHVtbj0icHJpemVfaW1nIiBqZGJjVHlwZT0iVkFSQ0hBUiIgcHJvcGVydHk9InByaXplSW1nIiAvPgogICAgICAgIDxyZXN1bHQgY29sdW1uPSJwcml6ZV9pbWdfdGhuIiBqZGJjVHlwZT0iVkFSQ0hBUiIgcHJvcGVydHk9InByaXplSW1nVGhuIiAvPgogICAgICAgIDxyZXN1bHQgY29sdW1uPSJwcml6ZV9kZXNjIiBqZGJjVHlwZT0iVkFSQ0hBUiIgcHJvcGVydHk9InByaXplRGVzYyIgLz4KICAgICAgICA8cmVzdWx0IGNvbHVtbj0idmlld19jb3VudCIgamRiY1R5cGU9IkJJR0lOVCIgcHJvcGVydHk9InZpZXdDb3VudCIgLz4KICAgICAgICA8cmVzdWx0IGNvbHVtbj0iY3JlYXRlX3RpbWUiIGpkYmNUeXBlPSJUSU1FU1RBTVAiIHByb3BlcnR5PSJjcmVhdGVUaW1lIiAvPgogICAgICAgIDxyZXN1bHQgY29sdW1uPSJ1cGRhdGVfdGltZSIgamRiY1R5cGU9IlRJTUVTVEFNUCIgcHJvcGVydHk9InVwZGF0ZVRpbWUiIC8+CiAgICA8L3Jlc3VsdE1hcD4KICAgIDxzcWwgaWQ9IkJhc2VfQ29sdW1uX0xpc3QiPgogICAgICAgIGlkLCB1c2VyX2lkLCBwcml6ZV90eXBlLCBzb3VyY2UsIHNvdXJjZV9pZCwgcHJpemVfdGl0bGUsIHByaXplX3N1YnRpdGxlLCBwcml6ZV91cmwsCiAgICAgICAgcHJpemVfaW1nLCBwcml6ZV9pbWdfdGhuLCBwcml6ZV9kZXNjLCB2aWV3X2NvdW50LCBjcmVhdGVfdGltZSwgdXBkYXRlX3RpbWUKICAgIDwvc3FsPgogICAgPHNlbGVjdCBpZD0ic2VsZWN0QnlQcmltYXJ5S2V5IiBwYXJhbWV0ZXJUeXBlPSJqYXZhLmxhbmcuU3RyaW5nIiByZXN1bHRNYXA9IkJhc2VSZXN1bHRNYXAiPgogICAgICAgIHNlbGVjdAogICAgICAgIDxpbmNsdWRlIHJlZmlkPSJCYXNlX0NvbHVtbl9MaXN0IiAvPgogICAgICAgIGZyb20geGxfdXNlcl9wcml6ZQogICAgICAgIHdoZXJlIGlkID0gI3tpZCxqZGJjVHlwZT1WQVJDSEFSfQogICAgPC9zZWxlY3Q+CiAgICA8ZGVsZXRlIGlkPSJkZWxldGVCeVByaW1hcnlLZXkiIHBhcmFtZXRlclR5cGU9ImphdmEubGFuZy5TdHJpbmciPgogICAgICAgIGRlbGV0ZSBmcm9tIHhsX3VzZXJfcHJpemUKICAgICAgICB3aGVyZSBpZCA9ICN7aWQsamRiY1R5cGU9VkFSQ0hBUn0KICAgIDwvZGVsZXRlPgogICAgPGluc2VydCBpZD0iaW5zZXJ0IiBwYXJhbWV0ZXJUeXBlPSJjb20ueGwuYmlyLnBvam8uWGxVc2VyUHJpemUiPgogICAgICAgIGluc2VydCBpbnRvIHhsX3VzZXJfcHJpemUgKGlkLCB1c2VyX2lkLCBwcml6ZV90eXBlLAogICAgICAgIHNvdXJjZSwgc291cmNlX2lkLCBwcml6ZV90aXRsZSwKICAgICAgICBwcml6ZV9zdWJ0aXRsZSwgcHJpemVfdXJsLCBwcml6ZV9pbWcsCiAgICAgICAgcHJpemVfaW1nX3RobiwgcHJpemVfZGVzYywgdmlld19jb3VudCwKICAgICAgICBjcmVhdGVfdGltZSwgdXBkYXRlX3RpbWUpCiAgICAgICAgdmFsdWVzICgje2lkLGpkYmNUeXBlPVZBUkNIQVJ9LCAje3VzZXJJZCxqZGJjVHlwZT1WQVJDSEFSfSwgI3twcml6ZVR5cGUsamRiY1R5cGU9VkFSQ0hBUn0sCiAgICAgICAgI3tzb3VyY2UsamRiY1R5cGU9VkFSQ0hBUn0sICN7c291cmNlSWQsamRiY1R5cGU9VkFSQ0hBUn0sICN7cHJpemVUaXRsZSxqZGJjVHlwZT1WQVJDSEFSfSwKICAgICAgICAje3ByaXplU3VidGl0bGUsamRiY1R5cGU9VkFSQ0hBUn0sICN7cHJpemVVcmwsamRiY1R5cGU9VkFSQ0hBUn0sICN7cHJpemVJbWcsamRiY1R5cGU9VkFSQ0hBUn0sCiAgICAgICAgI3twcml6ZUltZ1RobixqZGJjVHlwZT1WQVJDSEFSfSwgI3twcml6ZURlc2MsamRiY1R5cGU9VkFSQ0hBUn0sICN7dmlld0NvdW50LGpkYmNUeXBlPUJJR0lOVH0sCiAgICAgICAgI3tjcmVhdGVUaW1lLGpkYmNUeXBlPVRJTUVTVEFNUH0sICN7dXBkYXRlVGltZSxqZGJjVHlwZT1USU1FU1RBTVB9KQogICAgPC9pbnNlcnQ+CiAgICA8aW5zZXJ0IGlkPSJpbnNlcnRTZWxlY3RpdmUiIHBhcmFtZXRlclR5cGU9ImNvbS54bC5iaXIucG9qby5YbFVzZXJQcml6ZSI+CiAgICAgICAgaW5zZXJ0IGludG8geGxfdXNlcl9wcml6ZQogICAgICAgIDx0cmltIHByZWZpeD0iKCIgc3VmZml4PSIpIiBzdWZmaXhPdmVycmlkZXM9IiwiPgogICAgICAgICAgICA8aWYgdGVzdD0iaWQgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBpZCwKICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9InVzZXJJZCAhPSBudWxsIj4KICAgICAgICAgICAgICAgIHVzZXJfaWQsCiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJwcml6ZVR5cGUgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBwcml6ZV90eXBlLAogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0ic291cmNlICE9IG51bGwiPgogICAgICAgICAgICAgICAgc291cmNlLAogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0ic291cmNlSWQgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBzb3VyY2VfaWQsCiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJwcml6ZVRpdGxlICE9IG51bGwiPgogICAgICAgICAgICAgICAgcHJpemVfdGl0bGUsCiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJwcml6ZVN1YnRpdGxlICE9IG51bGwiPgogICAgICAgICAgICAgICAgcHJpemVfc3VidGl0bGUsCiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJwcml6ZVVybCAhPSBudWxsIj4KICAgICAgICAgICAgICAgIHByaXplX3VybCwKICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9InByaXplSW1nICE9IG51bGwiPgogICAgICAgICAgICAgICAgcHJpemVfaW1nLAogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0icHJpemVJbWdUaG4gIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBwcml6ZV9pbWdfdGhuLAogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0icHJpemVEZXNjICE9IG51bGwiPgogICAgICAgICAgICAgICAgcHJpemVfZGVzYywKICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9InZpZXdDb3VudCAhPSBudWxsIj4KICAgICAgICAgICAgICAgIHZpZXdfY291bnQsCiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJjcmVhdGVUaW1lICE9IG51bGwiPgogICAgICAgICAgICAgICAgY3JlYXRlX3RpbWUsCiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJ1cGRhdGVUaW1lICE9IG51bGwiPgogICAgICAgICAgICAgICAgdXBkYXRlX3RpbWUsCiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgPC90cmltPgogICAgICAgIDx0cmltIHByZWZpeD0idmFsdWVzICgiIHN1ZmZpeD0iKSIgc3VmZml4T3ZlcnJpZGVzPSIsIj4KICAgICAgICAgICAgPGlmIHRlc3Q9ImlkICE9IG51bGwiPgogICAgICAgICAgICAgICAgI3tpZCxqZGJjVHlwZT1WQVJDSEFSfSwKICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9InVzZXJJZCAhPSBudWxsIj4KICAgICAgICAgICAgICAgICN7dXNlcklkLGpkYmNUeXBlPVZBUkNIQVJ9LAogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0icHJpemVUeXBlICE9IG51bGwiPgogICAgICAgICAgICAgICAgI3twcml6ZVR5cGUsamRiY1R5cGU9VkFSQ0hBUn0sCiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJzb3VyY2UgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICAje3NvdXJjZSxqZGJjVHlwZT1WQVJDSEFSfSwKICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9InNvdXJjZUlkICE9IG51bGwiPgogICAgICAgICAgICAgICAgI3tzb3VyY2VJZCxqZGJjVHlwZT1WQVJDSEFSfSwKICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9InByaXplVGl0bGUgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICAje3ByaXplVGl0bGUsamRiY1R5cGU9VkFSQ0hBUn0sCiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJwcml6ZVN1YnRpdGxlICE9IG51bGwiPgogICAgICAgICAgICAgICAgI3twcml6ZVN1YnRpdGxlLGpkYmNUeXBlPVZBUkNIQVJ9LAogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0icHJpemVVcmwgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICAje3ByaXplVXJsLGpkYmNUeXBlPVZBUkNIQVJ9LAogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0icHJpemVJbWcgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICAje3ByaXplSW1nLGpkYmNUeXBlPVZBUkNIQVJ9LAogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0icHJpemVJbWdUaG4gIT0gbnVsbCI+CiAgICAgICAgICAgICAgICAje3ByaXplSW1nVGhuLGpkYmNUeXBlPVZBUkNIQVJ9LAogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0icHJpemVEZXNjICE9IG51bGwiPgogICAgICAgICAgICAgICAgI3twcml6ZURlc2MsamRiY1R5cGU9VkFSQ0hBUn0sCiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJ2aWV3Q291bnQgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICAje3ZpZXdDb3VudCxqZGJjVHlwZT1CSUdJTlR9LAogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0iY3JlYXRlVGltZSAhPSBudWxsIj4KICAgICAgICAgICAgICAgICN7Y3JlYXRlVGltZSxqZGJjVHlwZT1USU1FU1RBTVB9LAogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0idXBkYXRlVGltZSAhPSBudWxsIj4KICAgICAgICAgICAgICAgICN7dXBkYXRlVGltZSxqZGJjVHlwZT1USU1FU1RBTVB9LAogICAgICAgICAgICA8L2lmPgogICAgICAgIDwvdHJpbT4KICAgIDwvaW5zZXJ0PgogICAgPHVwZGF0ZSBpZD0idXBkYXRlQnlQcmltYXJ5S2V5U2VsZWN0aXZlIiBwYXJhbWV0ZXJUeXBlPSJjb20ueGwuYmlyLnBvam8uWGxVc2VyUHJpemUiPgogICAgICAgIHVwZGF0ZSB4bF91c2VyX3ByaXplCiAgICAgICAgPHNldD4KICAgICAgICAgICAgPGlmIHRlc3Q9InVzZXJJZCAhPSBudWxsIj4KICAgICAgICAgICAgICAgIHVzZXJfaWQgPSAje3VzZXJJZCxqZGJjVHlwZT1WQVJDSEFSfSwKICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9InByaXplVHlwZSAhPSBudWxsIj4KICAgICAgICAgICAgICAgIHByaXplX3R5cGUgPSAje3ByaXplVHlwZSxqZGJjVHlwZT1WQVJDSEFSfSwKICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9InNvdXJjZSAhPSBudWxsIj4KICAgICAgICAgICAgICAgIHNvdXJjZSA9ICN7c291cmNlLGpkYmNUeXBlPVZBUkNIQVJ9LAogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0ic291cmNlSWQgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBzb3VyY2VfaWQgPSAje3NvdXJjZUlkLGpkYmNUeXBlPVZBUkNIQVJ9LAogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0icHJpemVUaXRsZSAhPSBudWxsIj4KICAgICAgICAgICAgICAgIHByaXplX3RpdGxlID0gI3twcml6ZVRpdGxlLGpkYmNUeXBlPVZBUkNIQVJ9LAogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0icHJpemVTdWJ0aXRsZSAhPSBudWxsIj4KICAgICAgICAgICAgICAgIHByaXplX3N1YnRpdGxlID0gI3twcml6ZVN1YnRpdGxlLGpkYmNUeXBlPVZBUkNIQVJ9LAogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0icHJpemVVcmwgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBwcml6ZV91cmwgPSAje3ByaXplVXJsLGpkYmNUeXBlPVZBUkNIQVJ9LAogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0icHJpemVJbWcgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBwcml6ZV9pbWcgPSAje3ByaXplSW1nLGpkYmNUeXBlPVZBUkNIQVJ9LAogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0icHJpemVJbWdUaG4gIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBwcml6ZV9pbWdfdGhuID0gI3twcml6ZUltZ1RobixqZGJjVHlwZT1WQVJDSEFSfSwKICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9InByaXplRGVzYyAhPSBudWxsIj4KICAgICAgICAgICAgICAgIHByaXplX2Rlc2MgPSAje3ByaXplRGVzYyxqZGJjVHlwZT1WQVJDSEFSfSwKICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9InZpZXdDb3VudCAhPSBudWxsIj4KICAgICAgICAgICAgICAgIHZpZXdfY291bnQgPSAje3ZpZXdDb3VudCxqZGJjVHlwZT1CSUdJTlR9LAogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0iY3JlYXRlVGltZSAhPSBudWxsIj4KICAgICAgICAgICAgICAgIGNyZWF0ZV90aW1lID0gI3tjcmVhdGVUaW1lLGpkYmNUeXBlPVRJTUVTVEFNUH0sCiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIHVwZGF0ZV90aW1lID0gbm93KCksCiAgICAgICAgPC9zZXQ+CiAgICAgICAgd2hlcmUgaWQgPSAje2lkLGpkYmNUeXBlPVZBUkNIQVJ9CiAgICA8L3VwZGF0ZT4KICAgIDx1cGRhdGUgaWQ9InVwZGF0ZUJ5UHJpbWFyeUtleSIgcGFyYW1ldGVyVHlwZT0iY29tLnhsLmJpci5wb2pvLlhsVXNlclByaXplIj4KICAgICAgICB1cGRhdGUgeGxfdXNlcl9wcml6ZQogICAgICAgIHNldCB1c2VyX2lkID0gI3t1c2VySWQsamRiY1R5cGU9VkFSQ0hBUn0sCiAgICAgICAgcHJpemVfdHlwZSA9ICN7cHJpemVUeXBlLGpkYmNUeXBlPVZBUkNIQVJ9LAogICAgICAgIHNvdXJjZSA9ICN7c291cmNlLGpkYmNUeXBlPVZBUkNIQVJ9LAogICAgICAgIHNvdXJjZV9pZCA9ICN7c291cmNlSWQsamRiY1R5cGU9VkFSQ0hBUn0sCiAgICAgICAgcHJpemVfdGl0bGUgPSAje3ByaXplVGl0bGUsamRiY1R5cGU9VkFSQ0hBUn0sCiAgICAgICAgcHJpemVfc3VidGl0bGUgPSAje3ByaXplU3VidGl0bGUsamRiY1R5cGU9VkFSQ0hBUn0sCiAgICAgICAgcHJpemVfdXJsID0gI3twcml6ZVVybCxqZGJjVHlwZT1WQVJDSEFSfSwKICAgICAgICBwcml6ZV9pbWcgPSAje3ByaXplSW1nLGpkYmNUeXBlPVZBUkNIQVJ9LAogICAgICAgIHByaXplX2ltZ190aG4gPSAje3ByaXplSW1nVGhuLGpkYmNUeXBlPVZBUkNIQVJ9LAogICAgICAgIHByaXplX2Rlc2MgPSAje3ByaXplRGVzYyxqZGJjVHlwZT1WQVJDSEFSfSwKICAgICAgICB2aWV3X2NvdW50ID0gI3t2aWV3Q291bnQsamRiY1R5cGU9QklHSU5UfSwKICAgICAgICBjcmVhdGVfdGltZSA9ICN7Y3JlYXRlVGltZSxqZGJjVHlwZT1USU1FU1RBTVB9LAogICAgICAgIHVwZGF0ZV90aW1lID0gbm93KCkKICAgICAgICB3aGVyZSBpZCA9ICN7aWQsamRiY1R5cGU9VkFSQ0hBUn0KICAgIDwvdXBkYXRl</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGIudXNybD0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dGFibGVfbmFtZQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">LURzdW4uamF2YTJkLnJlbmRlcmVyPXN1bi5qYXZhMmQubWFybGluLk1hcmxpblJlbmRlcmluZ0VuZ2luZQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -48,7 +150,13 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>n</entry>
+        <entry>wq</entry>
+        <entry>np</entry>
+        <entry>nn</entry>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -58,6 +166,18 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
