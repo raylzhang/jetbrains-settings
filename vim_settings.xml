@@ -3,12 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1563327152045">
+      <file name="/Dummy.txt" timestamp="1563327867369">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1563327150637">
+      <file name="/a.sql" timestamp="1563327806691">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/prj-xl-code/xl-core/xl-api/src/main/java/com/xl/api/base/ResponseCode.java" timestamp="1563253761344">
@@ -33,7 +34,7 @@
       <file name="/fragment.java" timestamp="1563263521043">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1563326357852">
+      <file name="/dummy.sql" timestamp="1563327867387">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -46,12 +47,15 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">LURzdW4uamF2YTJkLnJlbmRlcmVyPXN1bi5qYXZhMmQubWFybGluLk1hcmxpblJlbmRlcmluZ0VuZ2luZQo=</text>
+        <text encoding="base64">dGFibGVfbmFtZQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>table_name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dGFibGVfbmFtZQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">LURzdW4uamF2YTJkLnJlbmRlcmVyPXN1bi5qYXZhMmQubWFybGluLk1hcmxpblJlbmRlcmluZ0VuZ2luZQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
@@ -74,6 +78,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
