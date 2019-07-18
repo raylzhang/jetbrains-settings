@@ -1,4 +1,4 @@
-<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="Mac OS X 10.5+ mac" parent="Mac OS X 10.5+">
   <action id="ChangesView.Diff" />
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
