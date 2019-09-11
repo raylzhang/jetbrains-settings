@@ -1,10 +1,18 @@
 <templateSet group="ray">
-  <template name="*" value="**&#10; * @Author Ray&#10; * @Description //TODO $end$&#10; * @Create $date$ $time$&#10; * @Param $param$&#10; * @Return $return$&#10; */" description="add Comments for method." toReformat="false" toShortenFQNames="true">
+  <template name="*" value="**&#10; * $end$&#10;$params$&#10; * @return $return$&#10; * @author Ray&#10; * @since $date$ $time$&#10; */" description="add Comments for method." toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="" defaultValue="groovyScript(&quot;if(\&quot;${_1}\&quot;.length() == 2) {return '';} else {def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList();for(i = 0; i &lt; params.size(); i++) {if(i&lt;(params.size()-1)){result+=' * @param ' + params[i] + ' ' + '\\n'}else{result+=' * @param ' + params[i] + ' '}}; return result;}&quot;, methodParameters()); " alwaysStopAt="true" />
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="*c" value="**&#10; * $end$&#10; *&#10; * @author Ray &#10; * @since $date$ $time$&#10; */" description="add Comments for method." toReformat="false" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
-    <variable name="param" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
-    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
