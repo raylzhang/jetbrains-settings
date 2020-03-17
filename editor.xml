@@ -15,6 +15,9 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="IS_DND_ENABLED" value="false" />
   </component>
+  <component name="JSEditorOptions">
+    <option name="CONVERT_HTML_TO_JSX" value="false" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
