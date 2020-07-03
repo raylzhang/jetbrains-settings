@@ -8,7 +8,6 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
-    <option name="FONT_FAMILY" value="JetBrains Mono" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
@@ -17,6 +16,9 @@
   </component>
   <component name="JSEditorOptions">
     <option name="CONVERT_HTML_TO_JSX" value="false" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseOneLineMethods" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
