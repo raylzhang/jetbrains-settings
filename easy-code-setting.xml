@@ -220,6 +220,10 @@
                     <option name="columnType" value="boolean" />
                     <option name="javaType" value="java.lang.Boolean" />
                   </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="tinyint(\(\d+\))?" />
+                    <option name="javaType" value="java.lang.Integer" />
+                  </TypeMapper>
                 </list>
               </option>
               <option name="name" value="Default" />
