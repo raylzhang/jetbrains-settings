@@ -277,7 +277,7 @@
                   </TypeMapper>
                   <TypeMapper>
                     <option name="columnType" value="date" />
-                    <option name="javaType" value="java.util.Date" />
+                    <option name="javaType" value="java.time.LocalDate" />
                   </TypeMapper>
                 </list>
               </option>
