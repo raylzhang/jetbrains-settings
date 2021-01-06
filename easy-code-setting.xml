@@ -134,7 +134,7 @@
                     <option name="name" value="mapper.xml" />
                   </Template>
                   <Template>
-                    <option name="code" value="##导入宏定义&#10;$!define&#10;&#10;##设置表后缀（宏定义）&#10;#setTableSuffix(&quot;Mapper&quot;)&#10;&#10;##保存文件（宏定义）&#10;#save(&quot;/mapper&quot;, &quot;Mapper.java&quot;)&#10;&#10;##包路径（宏定义）&#10;#setPackageSuffix(&quot;mapper&quot;)&#10;&#10;import com.baomidou.mybatisplus.core.mapper.BaseMapper;&#10;import org.apache.ibatis.annotations.Mapper;&#10;import $!{tableInfo.savePackageName}.entity.$!tableInfo.name;&#10;&#10;##表注释（宏定义）&#10;#tableComment(&quot;表数据库访问层&quot;)&#10;@Mapper&#10;public interface $!{tableName} extends BaseMapper&lt;$!tableInfo.name&gt; {&#10;&#10;}" />
+                    <option name="code" value="##导入宏定义&#10;$!define&#10;&#10;##设置表后缀（宏定义）&#10;#setTableSuffix(&quot;Mapper&quot;)&#10;&#10;##保存文件（宏定义）&#10;#save(&quot;/mapper&quot;, &quot;Mapper.java&quot;)&#10;&#10;##包路径（宏定义）&#10;#setPackageSuffix(&quot;mapper&quot;)&#10;&#10;import com.zwtech.zwt.common.data.datascope.ZwtBaseMapper;&#10;import org.apache.ibatis.annotations.Mapper;&#10;import $!{tableInfo.savePackageName}.entity.$!tableInfo.name;&#10;&#10;##表注释（宏定义）&#10;#tableComment(&quot;表数据库访问层&quot;)&#10;@Mapper&#10;public interface $!{tableName} extends ZwtBaseMapper&lt;$!tableInfo.name&gt; {&#10;&#10;}" />
                     <option name="name" value="mapper.java" />
                   </Template>
                   <Template>
