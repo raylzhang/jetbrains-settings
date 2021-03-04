@@ -5,5 +5,10 @@
         <option name="apiUrl" value="tcp://vambo:2375" />
       </configuration>
     </remote-server>
+    <remote-server name="xhsc" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://42.192.206.81:2375" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
