@@ -7,7 +7,8 @@
     </remote-server>
     <remote-server name="xhsc" type="docker">
       <configuration>
-        <option name="apiUrl" value="tcp://42.192.206.81:2375" />
+        <option name="apiUrl" value="https://42.192.206.81:2376" />
+        <option name="certificatesPath" value="$USER_HOME$/.docker/xhsc" />
       </configuration>
     </remote-server>
   </component>
